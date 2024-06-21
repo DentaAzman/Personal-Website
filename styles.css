@@ -473,6 +473,17 @@ main .content .content-image .lambang-um,
   margin-left: 0.5em;
 }
 
+.source-link-globe {
+  position: absolute;
+  right: 65px;
+  bottom: -3px;
+  font-size: 22px;
+}
+
+.source-link-globe i {
+  color: white !important;
+}
+
 .certification-title {
   text-align: center;
   margin-bottom: 1em;
